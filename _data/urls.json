@@ -5,15 +5,15 @@
     "icon": "fa-home",
     "layout": "post"
   },
+{
+    "text": "项目",
+    "url": "/projects",
+    "icon": "fa-desktop"
+  },
   {
     "text": "关于",
     "url": "/about/",
     "icon": "fa-comments"
-  },
-  {
-    "text": "项目",
-    "url": "/projects",
-    "icon": "fa-desktop"
   },
   {
     "text": "Github",
