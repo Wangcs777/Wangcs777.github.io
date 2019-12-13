@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projects
-permalink: /projects/
+title: 文章
+permalink: /文章/
 ---
 
-Few of my projects.
+我的文章
