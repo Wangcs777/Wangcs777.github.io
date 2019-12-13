@@ -1,7 +1,7 @@
 ---
 layout: project
-title: 文章
+title: 项目
 permalink: /projects/
 ---
 
-我的文章
+我的项目
