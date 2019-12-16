@@ -1,5 +1,5 @@
 ---
-layout: _posts
+layout: post
 title: Git命令
 data: 2019-12-16 10:56:30
 categories：others
