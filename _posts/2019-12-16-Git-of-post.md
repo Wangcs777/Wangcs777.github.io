@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git"
+title:   "Git"
 data:   2019-12-16 10:56:30
 categories：others
 ---
