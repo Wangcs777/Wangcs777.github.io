@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Git命令"
-data: 2019-12-16 10:56:30
+title: "Git"
+data:   2019-12-16 10:56:30
 categories：others
 ---
-
 # Git命令 
 
 ### Git是一个开源的分布式版本控制系统，可以对高效地处理项目版本管理。
