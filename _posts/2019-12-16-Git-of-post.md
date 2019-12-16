@@ -1,5 +1,5 @@
 
-|layout|title|data|categories|
+|layout|title|date|categories|
 |:-:|:-:|:-:|:-:|
 |post|Git|2019-12-16 10:56:30|others|
 
