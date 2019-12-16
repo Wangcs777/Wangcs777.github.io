@@ -44,3 +44,13 @@ categories：others
  
     * git push -u（跟踪远程分支的变化） origin（远程名称） master（分支名称）    
  + 此时就将版本库发送到服务器上了
+ 
+ 
+ 
+ {% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
