@@ -1,7 +1,7 @@
 ---
-layout|title|data|categories
-:-:|:-:|:-:|:-:
-post|Git|2019-12-16 10:56:30|others
+|layout|title|data|categories|
+|:-:|:-:|:-:|:-:|
+|post|Git|2019-12-16 10:56:30|others|
 
 ---
 # Git命令 
