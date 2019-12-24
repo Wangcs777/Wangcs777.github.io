@@ -14,7 +14,9 @@ disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
   
-
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
 
 enableTags: true
 tagarray: []
