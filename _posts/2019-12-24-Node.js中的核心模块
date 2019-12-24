@@ -1,9 +1,9 @@
 
 ---
 layout: post
-title: Test Page
+title: 核心模块
 date:   2019-12-24
 categories: node.js
 ---
 
-![核心模块]:(/assets/Node.js核心模块.png);
+![核心模块](/assets/Node.js核心模块.png);
